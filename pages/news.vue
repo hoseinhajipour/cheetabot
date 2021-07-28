@@ -1,5 +1,7 @@
 <template>
-$END$
+  <div>
+    news
+  </div>
 </template>
 
 <script>

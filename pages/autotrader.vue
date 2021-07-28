@@ -1,10 +1,12 @@
 <template>
-$END$
+  <div>
+    autotrader
+  </div>
 </template>
 
 <script>
 export default {
-name: "autotrader"
+  name: "autotrader"
 }
 </script>
 

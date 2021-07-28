@@ -1,5 +1,7 @@
 <template>
-$END$
+  <div>
+    quick trader
+  </div>
 </template>
 
 <script>

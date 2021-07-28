@@ -1,5 +1,7 @@
 <template>
-$END$
+  <div>
+    dashboard
+  </div>
 </template>
 
 <script>

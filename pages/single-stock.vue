@@ -1,5 +1,7 @@
 <template>
-$END$
+  <div>
+    single-stock
+  </div>
 </template>
 
 <script>

@@ -1,5 +1,7 @@
 <template>
-$END$
+  <div>
+    post
+  </div>
 </template>
 
 <script>
