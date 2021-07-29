@@ -91,10 +91,6 @@ export default {
           to: '/news'
         },
         {
-          title: 'post',
-          to: '/post'
-        },
-        {
           title: 'dashboard',
           to: '/dashboard'
         },
@@ -122,7 +118,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Cheeta bot'
+      title: 'چیتا'
     }
   }
 }
