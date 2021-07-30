@@ -1,9 +1,9 @@
 import Vuex from 'vuex'
-import blog from './modules/blog.store'
+//import blog from './modules/blog.store'
 
 export const store = new Vuex.Store({
   modules: {
-    blog
+    // blog
   }
 })
 export const state = () => ({
